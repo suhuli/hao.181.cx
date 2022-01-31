@@ -89,8 +89,8 @@ a {
 
 .con .shlogo {
     position: relative;
-    width: 120px;
-    height: 120px;
+    width: 302px;
+    height: 141px;
     margin: 5px auto;
     background: url("avatar-300x300.webp") no-repeat center/cover;
 }
