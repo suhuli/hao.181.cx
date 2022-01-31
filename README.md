@@ -1,41 +1,57 @@
-# Minimalist Search
+# jianavi
 
-一个纯HTML+CSS+JS的极简起始页 [https://i.holger.net.cn](https://i.holger.net.cn) 。
+简约导航开源版，演示地址：https://appexplore.github.io/jianavi/
 
-> Forked from [sou2](https://github.com/yeetime/sou2)
->
-> ©️ 5iux | Yeetime | Holger
+简约导航最初源自于小呆导航
 
-## 与原版的改动（相对于Yeetime版本）
+因此当简约导航发展到现在，我决定做些什么，于是便有了简约导航开源版
 
-- CSS: 去除无用CSS，精简合并，优化侧边栏动画
-- 文件结构更加整齐（重定位iconfont，css，js文件夹到static下）
-- 更新和风天气API
-- 大量优化
+### 界面截图
 
-## 增加内容
+https://ae01.alicdn.com/kf/Hf8c6c8b083734fc9bd73e334017995fcK.jpg
 
-- 添加底部仿 V2EX 延迟检测（纯js，可以一定程度上检测延迟高低，但准确性无法保证）
+### 版权事项
 
-- 增加一言api
+除了保留页脚版权信息中本项目的开源地址，其它地方可以随便改，请勿出售
 
-- 增加今日诗词api
+如果您想修改或删除页面下方版权信息中本项目的开源地址，请打赏并留言您的网址 >> https://afdian.net/@appts
 
-- 增加深色模式（跟随系统）
+开源不易，感谢支持，支持用户网址默认会添加到本页下方
 
-  ![此GIF上的配色已过时](https://github.com/HolgerHuo/minimalist-search/raw/master/static/images/darkmode.gif)
-> 此图中配色以过时
-## 计划
+### 使用说明
 
-- [ ] 搜索记录
-- [ ] 自定义背景
-- [ ] ······
+纯静态网页，下载zip，解压上传到虚拟主机就可以直接访问了
 
-## 下载地址
+如果需要修改网址可以下载个notepad++ >> https://notepad-plus-plus.org/
 
-[Releases](https://github.com/HolgerHuo/minimalist-search/releases)
+用它打开index.html就可以愉快的修改了
 
-------
+如果您没有网站搭建的经验可以看这篇文章 >> https://zhuanlan.zhihu.com/p/44102948
 
-**本项目基于GPL-3.0协议**
+需要免费的虚拟主机可以看这篇文章 >> https://zhuanlan.zhihu.com/p/44099866
+
+### 速度优化
+
+如果您托管在GitHub可以使用免费的jsDelivr来优化访问速度（拥有大陆CDN节点）
+
+### 开源计划
+
+目前开源的版本和简约导航正在使用的版本不同，区别在于开源版并不支持自定义，未来简约导航迭代后会开源自定义版（自定义内容保存在本地）
+
+这是一个稳定的版本，可以放心使用
+
+我现在用的版本是：https://www.jianavi.com
+
+### 使用者
+
+感谢以下用户使用简约导航开源版并打赏支持
+
+https://yeyihan.eebbk.top/home.html
+
+https://www.huashengmi.top/
+
+http://aclick.cn/
+
+https://arir.xyz/
+
 
